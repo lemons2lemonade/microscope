@@ -21,3 +21,5 @@ twbs:bootstrap
 iron:router
 check
 ejson
+ian:accounts-ui-bootstrap-3
+accounts-password
